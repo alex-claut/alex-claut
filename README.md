@@ -15,7 +15,7 @@ I'm Alex Claut, a 21-year-old developer specializing in scripting for FiveM and 
 
 ## FiveM Projects
 
-- [FiveM | AntiCipher (Backdoor Protection) ](https://github.com/alex-claut/Anti-Cipher):
+- [FiveM | AntiCipher (Backdoor Protection) ](https://github.com/alex-claut/Anti-Cipher): A script that finds backdoors in FiveM scripts, and automatically detects the correct file name and takes care of your server protection.
 
 ## Signature
 
