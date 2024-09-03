@@ -11,7 +11,7 @@ I'm Alex Claut, a 21-year-old developer specializing in scripting for FiveM and 
 
 ## Contact
 
-- 📧 Email: [alex.claut@example.com](mailto:alex.claut91@egmail.com)
+- 📧 Email: [alex.claut91@gmail.com](mailto:alex.claut91@egmail.com)
 
 ## FiveM Projects
 
