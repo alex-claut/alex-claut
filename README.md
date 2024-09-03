@@ -15,10 +15,10 @@ I'm Alex Claut, a 21-year-old developer specializing in scripting for FiveM and 
 
 ## FiveM Projects
 
-- [FiveM | AntiCipher (Backdoor Protection) ](https://github.com/alex-claut/Anti-Cipher): Description of the first project.
+- [FiveM | AntiCipher (Backdoor Protection) ](https://github.com/alex-claut/Anti-Cipher):
 
 ## Signature
 
-![Signature](https://imgur.com/DcJibJc)
+![Signature](https://i.imgur.com/DcJibJc.png)
 
 Thanks for visiting my profile! If you have any questions or want to collaborate, feel free to reach out. 😄
