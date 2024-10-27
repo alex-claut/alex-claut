@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm Alex Claut, a 21-year-old developer specializing in scripting for FiveM and creating textdraws for SA-MP. I enjoy enhancing gameplay experiences through custom scripts and interfaces.
+I'm Alex Claut, a 23-year-old developer specializing in scripting for FiveM and creating textdraws for SA-MP. I enjoy enhancing gameplay experiences through custom scripts and interfaces.
 
 ## What I Do
 
